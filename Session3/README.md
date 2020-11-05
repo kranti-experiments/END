@@ -127,36 +127,3 @@ DDDD: Starting and Ending Ranges
 Input: state="DL", dddd_start = 7898, dddd_end = 8967
 Output: ['DL43IU8844', 'DL32MJ7989', ..]
 ```
-
-
-
-### check_fibonacci
-
-### listcompreh_add_even_odd
-
-### listcompreh_strip_vowel
-
-
-### listcompreh_relu_activation
-
-### listcompreh_sigmoid_activation
-
-### listcompreh_char_shift
-
-
-### listcompreh_profanity_check
-
-### reduce_add_even_numbers
-
-
-### reduce_biggest_char
-
-
-### reduce_add_third_num
-
-
-### listcompreh_gen_number_plates
-
-
-
-### listcompreh_gen_number_plates_with_input
